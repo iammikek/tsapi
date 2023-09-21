@@ -124,5 +124,8 @@
 
     "outDir": "./build",
     "rootDir": "./source"
-  }
+  },
+
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true
 }
